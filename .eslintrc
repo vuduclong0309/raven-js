@@ -58,6 +58,10 @@
       0,
       "never"
     ],
+    "strict": [
+      2,
+      "never"
+    ],
     "valid-typeof": 2,
     "wrap-iife": [
       2,

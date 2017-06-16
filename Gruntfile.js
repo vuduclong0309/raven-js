@@ -1,5 +1,4 @@
-'use strict';
-
+'use strict'; // eslint-disable-line
 module.exports = function(grunt) {
     var _ = require('lodash');
     var path = require('path');
