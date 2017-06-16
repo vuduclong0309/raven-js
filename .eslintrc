@@ -58,10 +58,6 @@
       0,
       "never"
     ],
-    // "strict": [
-      // 2,
-      // "safe"
-    // ],
     "valid-typeof": 2,
     "wrap-iife": [
       2,
